@@ -1,13 +1,7 @@
-# Hi there, I'm Rahat! 👋 <img src="https://komarev.com/normal-badge/?username=rahat300809&color=22c55e&label=PROFILE+VIEWS&style=flat-square" align="right" />
+# Hi there, I'm Rahat! 👋 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frahat300809&count_bg=%2322C55E&title_bg=%230F172A&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" align="right" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;IoT+Hardware+Innovator;Distributed+Systems+%26+Cloud;Competitive+Programmer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rahat300809&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
 </p>
 
 ---
@@ -158,17 +152,7 @@ graph TD
 
 ---
 
-## 📊 Activity & Contributions
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahat300809&theme=tokyonight&bg_color=0f172a&color=22c55e&line=3b82f6&point=f59e0b&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-  </a>
-</p>
-
----
-
-## 📈 GitHub Stats
+## 📈 Coding Streaks
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahat300809&theme=tokyonight" alt="Streak Stats" />
