@@ -7,7 +7,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=22C55E&center=false&vCenter=true&width=400&lines=Full-Stack+Web+Developer;IoT+Hardware+Innovator;Distributed+Systems+Engineer" alt="Typing SVG" />
       </p>
       <p>I am a passionate software engineer and hardware integrator specializing in building highly scalable distributed systems, interactive web applications, real-time networking protocols, and IoT smart devices.</p>
-      <p><b>🔍 Main Focus:</b> High-performance networking, cloud/hardware bridges, and edge compute balancing.</p>
+      <p><b> Main Focus:</b> High-performance networking, cloud/hardware bridges, and edge compute balancing.</p>
       <p align="left">
         <a href="https://github.com/rahat300809">
           <img src="https://komarev.com/ghpvc/?username=rahat300809&color=22c55e&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -22,7 +22,7 @@
 
 ---
 
-## 📈 Coding Streaks & Stats
+##  Coding Streaks & Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahat300809&theme=transparent" alt="GitHub Details" />
