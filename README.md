@@ -1,7 +1,13 @@
-# Hi there, I'm Rahat! 👋
+# Hi there, I'm Rahat! 👋 <img src="https://profile-counter.glitch.me/rahat300809/count.svg" align="right" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;IoT+Hardware+Innovator;Distributed+Systems+%26+Cloud;Competitive+Programmer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rahat300809&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
@@ -9,6 +15,14 @@
 ## 🚀 About Me
 
 I am a passionate software engineer and hardware enthusiast specializing in building highly scalable, distributed systems, interactive web applications, real-time networking protocols, and IoT smart devices. I love turning complex problems into clean, robust, and user-friendly products.
+
+---
+
+## 💡 Philosophy & Motivation
+
+> ⚡ **"Complexity is the enemy of execution. I design systems where hardware meets the cloud, and logic meets efficiency."**
+> 
+> *As a software developer and hardware integrator, my philosophy revolves around building robust, low-latency applications that connect the physical world with cloud ecosystems. Whether balancing heavy AI workloads on distributed PC clusters, engineering real-time safety algorithms for IoT helmets, or securing web transactions with block-hashed chains, I write clean, thread-safe, and highly maintainable code.*
 
 ---
 
@@ -91,14 +105,6 @@ A collaborative utility web tool to format, store, and share code snippets.
 
 ---
 
-## 💡 Philosophy & Motivation
-
-> ⚡ **"Complexity is the enemy of execution. I design systems where hardware meets the cloud, and logic meets efficiency."**
-> 
-> *As a software developer and hardware integrator, my philosophy revolves around building robust, low-latency applications that connect the physical world with cloud ecosystems. Whether balancing heavy AI workloads on distributed PC clusters, engineering real-time safety algorithms for IoT helmets, or securing web transactions with block-hashed chains, I write clean, thread-safe, and highly maintainable code.*
-
----
-
 ## 📊 Developer Ecosystem Architecture
 
 Below is the high-level flow of how my core projects connect across the web, distributed services, and physical hardware interfaces:
@@ -134,11 +140,22 @@ graph TD
 
 ---
 
+## 📊 Activity & Contributions
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahat300809&theme=tokyonight&bg_color=0f172a&color=22c55e&line=3b82f6&point=f59e0b&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  </a>
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahat300809&show_icons=true&theme=tokyonight&count_private=true" alt="Rahat's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahat300809&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahat300809&show_icons=true&theme=tokyonight&bg_color=0f172a&text_color=22c55e&icon_color=3b82f6&title_color=f59e0b&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat300809&layout=compact&theme=tokyonight&bg_color=0f172a&text_color=22c55e&icon_color=3b82f6&title_color=f59e0b&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahat300809&theme=tokyonight&background=0f172a&ring=22c55e&fire=f59e0b&currStreakNum=3b82f6&sideNums=a8b9cc&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
