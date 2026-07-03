@@ -1,4 +1,4 @@
-# Hi there, I'm Rahat! 👋 <img src="https://profile-counter.glitch.me/rahat300809/count.svg" align="right" />
+# Hi there, I'm Rahat! 👋 <img src="https://komarev.com/normal-badge/?username=rahat300809&color=22c55e&label=PROFILE+VIEWS&style=flat-square" align="right" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;IoT+Hardware+Innovator;Distributed+Systems+%26+Cloud;Competitive+Programmer" alt="Typing SVG" />
@@ -9,6 +9,24 @@
     <img src="https://github-profile-trophy.vercel.app/?username=rahat300809&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
+
+---
+
+```bash
+rahat@desktop:~$ neofetch --user rahat300809
+```
+```
+      /\_/\         rahat300809@github
+     ( o.o )        ------------------
+      > ^ <         OS: Windows 11 / Linux
+                    Role: Full-Stack & IoT Systems Engineer
+                    Shell: PowerShell / Zsh
+                    Languages: TypeScript, C++, C#, Kotlin, Java, C
+                    Frameworks: Next.js, React, Node.js, Express, .NET 9
+                    Databases: Cloud Firestore, Firebase RTDB, SQL
+                    IoT Hardware: ESP32, Arduino, MPU6050, GPS, GSM
+                    Active Project: ClusterOS (Distributed Compute Manager)
+```
 
 ---
 
@@ -153,9 +171,7 @@ graph TD
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahat300809&show_icons=true&theme=tokyonight&bg_color=0f172a&text_color=22c55e&icon_color=3b82f6&title_color=f59e0b&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat300809&layout=compact&theme=tokyonight&bg_color=0f172a&text_color=22c55e&icon_color=3b82f6&title_color=f59e0b&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahat300809&theme=tokyonight&background=0f172a&ring=22c55e&fire=f59e0b&currStreakNum=3b82f6&sideNums=a8b9cc&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahat300809&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ---
