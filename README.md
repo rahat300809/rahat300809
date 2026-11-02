@@ -21,7 +21,7 @@
 </table>
 
 <p align="center">
-  <img src="./typing.gif" width="380" alt="Coding Mode" style="border-radius: 10px;" />
+  <img src="./coding.gif" width="380" alt="Coding Mode" style="border-radius: 10px;" />
 </p>
 
 ---
