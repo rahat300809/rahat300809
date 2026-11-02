@@ -21,7 +21,8 @@
 </table>
 
 <p align="center">
-  <img src="./coding.gif" width="380" alt="Coding Mode" style="border-radius: 10px;" />
+  <img src="./coding.gif" width="48%" style="max-width: 380px; border-radius: 8px;" alt="Developer Coding Mode" />
+  <img src="./code_screen.png" width="48%" style="max-width: 380px; border-radius: 8px;" alt="Code Stream Terminal" />
 </p>
 
 ---
